@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.fliptheboard.ru.ico",
     "slug": "stage",
     "status": "down",
-    "uptime": "19.79%",
-    "uptimeDay": "19.79%",
-    "uptimeWeek": "19.79%",
-    "uptimeMonth": "19.79%",
-    "uptimeYear": "19.79%",
+    "uptime": "0.89%",
+    "uptimeDay": "0.89%",
+    "uptimeWeek": "0.89%",
+    "uptimeMonth": "0.89%",
+    "uptimeYear": "0.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 20
+      "2026-06-30": 232,
+      "2026-06-29": 307
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobile.fliptheboard.ru.ico",
     "slug": "mobile",
     "status": "down",
-    "uptime": "24.69%",
-    "uptimeDay": "24.69%",
-    "uptimeWeek": "24.69%",
-    "uptimeMonth": "24.69%",
-    "uptimeYear": "24.69%",
+    "uptime": "0.90%",
+    "uptimeDay": "0.90%",
+    "uptimeWeek": "0.90%",
+    "uptimeMonth": "0.90%",
+    "uptimeYear": "0.90%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 15
+      "2026-06-30": 232,
+      "2026-06-29": 302
     }
   },
   {
@@ -45,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/erp.fliptheboard.ru.ico",
     "slug": "erp",
     "status": "down",
-    "uptime": "32.96%",
-    "uptimeDay": "32.96%",
-    "uptimeWeek": "32.96%",
-    "uptimeMonth": "32.96%",
-    "uptimeYear": "32.96%",
+    "uptime": "0.91%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.91%",
+    "uptimeMonth": "0.91%",
+    "uptimeYear": "0.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 10
+      "2026-06-30": 232,
+      "2026-06-29": 298
     }
   },
   {
@@ -65,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fliptheboard.ru.ico",
     "slug": "wiki",
     "status": "down",
-    "uptime": "49.01%",
-    "uptimeDay": "49.01%",
-    "uptimeWeek": "49.01%",
-    "uptimeMonth": "49.01%",
-    "uptimeYear": "49.01%",
+    "uptime": "0.91%",
+    "uptimeDay": "0.91%",
+    "uptimeWeek": "0.91%",
+    "uptimeMonth": "0.91%",
+    "uptimeYear": "0.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 5
+      "2026-06-30": 232,
+      "2026-06-29": 293
     }
   },
   {
@@ -85,18 +89,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.fliptheboard.ru.ico",
     "slug": "git-lab",
     "status": "down",
-    "uptime": "97.00%",
-    "uptimeDay": "97.00%",
-    "uptimeWeek": "97.00%",
-    "uptimeMonth": "97.00%",
-    "uptimeYear": "97.00%",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 0
+      "2026-06-30": 232,
+      "2026-06-29": 288
     }
   }
 ]
