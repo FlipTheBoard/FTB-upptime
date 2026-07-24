@@ -16,7 +16,7 @@
     "timeMonth": 1857,
     "timeYear": 1857,
     "dailyMinutesDown": {
-      "2026-07-24": 168,
+      "2026-07-24": 584,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -61,7 +61,7 @@
     "timeMonth": 1786,
     "timeYear": 1786,
     "dailyMinutesDown": {
-      "2026-07-24": 168,
+      "2026-07-24": 584,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -94,12 +94,12 @@
     "url": "https://erp.fliptheboard.ru",
     "icon": "https://icons.duckduckgo.com/ip3/erp.fliptheboard.ru.ico",
     "slug": "erp",
-    "status": "up",
-    "uptime": "95.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "95.72%",
+    "status": "down",
+    "uptime": "95.76%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "95.76%",
+    "uptimeYear": "95.76%",
     "time": 2328,
     "timeDay": 2112,
     "timeWeek": 2222,
@@ -108,7 +108,8 @@
     "dailyMinutesDown": {
       "2026-06-30": 1141,
       "2026-06-29": 298,
-      "2026-07-04": 62
+      "2026-07-04": 62,
+      "2026-07-24": 2
     }
   },
   {
@@ -116,12 +117,12 @@
     "url": "https://wiki.fliptheboard.ru",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fliptheboard.ru.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "95.91%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.95%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.91%",
-    "uptimeYear": "95.91%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "95.95%",
     "time": 1606,
     "timeDay": 1476,
     "timeWeek": 1541,
@@ -129,7 +130,8 @@
     "timeYear": 1606,
     "dailyMinutesDown": {
       "2026-06-30": 1141,
-      "2026-06-29": 293
+      "2026-06-29": 293,
+      "2026-07-24": 0
     }
   },
   {
@@ -138,11 +140,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.fliptheboard.ru.ico",
     "slug": "git-lab",
     "status": "up",
-    "uptime": "95.92%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.92%",
-    "uptimeYear": "95.92%",
+    "uptimeMonth": "95.97%",
+    "uptimeYear": "95.97%",
     "time": 1652,
     "timeDay": 1572,
     "timeWeek": 1611,
