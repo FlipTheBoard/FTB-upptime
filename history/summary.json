@@ -16,7 +16,7 @@
     "timeMonth": 1875,
     "timeYear": 1897,
     "dailyMinutesDown": {
-      "2026-08-18": 78,
+      "2026-08-18": 1042,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -86,7 +86,7 @@
     "timeMonth": 1796,
     "timeYear": 1804,
     "dailyMinutesDown": {
-      "2026-08-18": 78,
+      "2026-08-18": 1042,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -144,12 +144,12 @@
     "url": "https://erp.fliptheboard.ru",
     "icon": "https://icons.duckduckgo.com/ip3/erp.fliptheboard.ru.ico",
     "slug": "erp",
-    "status": "up",
-    "uptime": "97.74%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "97.74%",
+    "status": "down",
+    "uptime": "97.76%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "97.76%",
     "time": 2377,
     "timeDay": 2841,
     "timeWeek": 2428,
@@ -159,7 +159,8 @@
       "2026-06-30": 1141,
       "2026-06-29": 298,
       "2026-07-04": 62,
-      "2026-07-24": 104
+      "2026-07-24": 104,
+      "2026-08-18": 3
     }
   },
   {
@@ -167,12 +168,12 @@
     "url": "https://wiki.fliptheboard.ru",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fliptheboard.ru.ico",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "97.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "97.83%",
+    "status": "down",
+    "uptime": "97.86%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "97.86%",
     "time": 1593,
     "timeDay": 2184,
     "timeWeek": 1583,
@@ -181,7 +182,8 @@
     "dailyMinutesDown": {
       "2026-06-30": 1141,
       "2026-06-29": 293,
-      "2026-07-24": 103
+      "2026-07-24": 103,
+      "2026-08-18": 2
     }
   },
   {
@@ -189,12 +191,12 @@
     "url": "https://git.fliptheboard.ru",
     "icon": "https://icons.duckduckgo.com/ip3/git.fliptheboard.ru.ico",
     "slug": "git-lab",
-    "status": "up",
-    "uptime": "97.99%",
+    "status": "down",
+    "uptime": "98.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.01%",
     "time": 1674,
     "timeDay": 1869,
     "timeWeek": 1817,
