@@ -16,7 +16,7 @@
     "timeMonth": 1880,
     "timeYear": 1891,
     "dailyMinutesDown": {
-      "2026-08-19": 1197,
+      "2026-08-19": 1238,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -87,7 +87,7 @@
     "timeMonth": 1800,
     "timeYear": 1801,
     "dailyMinutesDown": {
-      "2026-08-19": 1197,
+      "2026-08-19": 1238,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -146,23 +146,24 @@
     "url": "https://erp.fliptheboard.ru",
     "icon": "https://icons.duckduckgo.com/ip3/erp.fliptheboard.ru.ico",
     "slug": "erp",
-    "status": "up",
+    "status": "down",
     "uptime": "97.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "97.78%",
-    "time": 2378,
-    "timeDay": 2033,
-    "timeWeek": 2414,
-    "timeMonth": 2389,
-    "timeYear": 2378,
+    "time": 2346,
+    "timeDay": 1320,
+    "timeWeek": 2213,
+    "timeMonth": 2336,
+    "timeYear": 2346,
     "dailyMinutesDown": {
       "2026-06-30": 1141,
       "2026-06-29": 298,
       "2026-07-04": 62,
       "2026-07-24": 104,
-      "2026-08-18": 30
+      "2026-08-18": 30,
+      "2026-08-19": 0
     }
   },
   {
@@ -170,22 +171,23 @@
     "url": "https://wiki.fliptheboard.ru",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.fliptheboard.ru.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "97.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "97.87%",
-    "time": 1588,
-    "timeDay": 1272,
-    "timeWeek": 1568,
-    "timeMonth": 1553,
-    "timeYear": 1588,
+    "time": 1570,
+    "timeDay": 945,
+    "timeWeek": 1462,
+    "timeMonth": 1526,
+    "timeYear": 1570,
     "dailyMinutesDown": {
       "2026-06-30": 1141,
       "2026-06-29": 293,
       "2026-07-24": 103,
-      "2026-08-18": 29
+      "2026-08-18": 29,
+      "2026-08-19": 0
     }
   },
   {
