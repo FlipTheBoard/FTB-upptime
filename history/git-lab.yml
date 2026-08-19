@@ -1,7 +1,7 @@
 url: https://git.fliptheboard.ru
-status: up
-code: 200
-responseTime: 1405
-lastUpdated: 2026-08-18T23:23:14.624Z
+status: down
+code: 503
+responseTime: 616
+lastUpdated: 2026-08-19T14:54:06.981Z
 startTime: 2026-06-29T19:07:17.008Z
 generator: Upptime <https://github.com/upptime/upptime>
